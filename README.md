@@ -1,4 +1,4 @@
-# CMPT 310 Introduction to AI - Pacman Projects
+# PacMan Projects for Artificial Intelligence Concepts Implementation
 
 This repository contains all the projects completed as part of the Introduction to AI course (CMPT 310) at Simon Fraser University (SFU). Each project focuses on optimizing different aspects of the Pacman game using various AI concepts. The code is fully functional, and the original assignment PDFs are available for reference.
 
