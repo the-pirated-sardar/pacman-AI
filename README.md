@@ -1,1 +1,1 @@
-# pacman-AI
+# Pacman Artificial Intelligence
